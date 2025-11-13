@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-## 👋 About Me
+## About Me
 
 I am a master’s student in **Statistics** at the **University of Connecticut**, where my coursework and research focus on *statistical modeling, Bayesian inference, and applied probability*.  
 My research interests lie broadly in **Bayesian Inference**, **Time Series Analysis**, **Machine Learning**, and **Applied Probability**, with applications to **actuarial science, risk modeling, and data-driven decision making**.
