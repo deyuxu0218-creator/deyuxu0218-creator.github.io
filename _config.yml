@@ -18,7 +18,15 @@ url: "https://deyuxu0218-creator.github.io"
 baseurl: ""
 repository               : "deyuxu/deyuxu0218.github.io"
 
-   
+author:
+  name: "Deyu Xu"
+  avatar: "profile.jpg"   
+  bio: "Master’s student in Statistics at the University of Connecticut."
+  email: "vqp24001@uconn.edu"
+  location: "Connecticut, USA"
+  affiliation: "University of Connecticut"
+  github: "deyuxu0218-creator"
+
 
 
 # Publication Category - The following the list of publication categories and their headings
