@@ -1,18 +1,17 @@
-# Authors
+deyuxu0218-creator:
+  name        : "Deyu Xu"
+  uri         : "https://deyuxu0218-creator.github.io"
+  email       : "vqp24001@uconn.edu"
+  bio         : "Master's student in Statistics at the University of Connecticut."
+  avatar      : "/images/profile.jpg"
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  
+  location    : "Connecticut, USA"
+  affiliation : "University of Connecticut"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+
+  orcid       : ""
+  googlescholar: ""
+  github      : "https://github.com/deyuxu0218-creator"
+  linkedin    : ""
+
